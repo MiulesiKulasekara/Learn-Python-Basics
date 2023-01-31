@@ -109,5 +109,5 @@ myAge1(22)
 #ternary
 def myAge2(age):
     print("You are an adult") if age > 18 else print("You are a child")
-    #true condition         if part           else part           false condition
+    #true condition   if part   else part    false condition
 myAge2(21)
