@@ -1,4 +1,4 @@
-# Control Structure
+# Control Statements
 
 pet = "Bird"
 
